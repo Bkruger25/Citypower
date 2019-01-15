@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://209.203.0.237/CityPower/WebServices/WorkflowEngineSOA.asmx?wsdl" docRef="http://209.203.0.237/CityPower/WebServices/WorkflowEngineSOA.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://209.203.0.237/CityPower/WebServices/WorkflowEngineSOA.asmx" xmlns:q1="http://tempuri.org/" binding="q1:WorkflowEngineSOASoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://209.203.0.237/CityPower/WebServices/WorkflowEngineSOA.asmx" xmlns:q2="http://tempuri.org/" binding="q2:WorkflowEngineSOASoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
